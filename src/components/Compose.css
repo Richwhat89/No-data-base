@@ -1,0 +1,14 @@
+div{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 100%;
+    justify-content: space-evenly;
+    font-family: 'Metal Mania', cursive;
+    font-size: 30px;
+}
+
+

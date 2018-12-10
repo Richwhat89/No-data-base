@@ -1,0 +1,24 @@
+#edit_cancel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Metal Mania', cursive;
+}
+section{
+    inline-size: 100%;
+    font-size: 25px;
+    font-family: 'Metal Mania', cursive;
+}
+
+button{
+    height: 2em;
+    width: 5em;
+    border-radius: 12px;
+    font-weight: bold;
+    background-color: brown;
+    font-family: 'Metal Mania', cursive;
+    
+}
+
